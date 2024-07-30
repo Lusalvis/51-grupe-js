@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "jsmini": "node --watch ./js/kintamieji/jsmini.js",
     "if": "node --watch ./js/if/if.js",
     "null": "node --watch ./js/kintamieji/null.js",
     "namdam": "node --watch ./js/kintamieji/namdam.js",
