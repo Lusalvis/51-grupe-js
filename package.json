@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "for-in": "node --watch ./js/ciklas/for-in.js",
+    "import": "node --watch ./js/function/import.js",
+        "for": "node --watch ./js/ciklas/for.js",
     "function": "node --watch ./js/function/function.js",
     "ternary": "node --watch ./js/if/ternary.js",
     "jsmini": "node --watch ./js/kintamieji/jsmini.js",
