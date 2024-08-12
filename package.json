@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "for-in": "node --watch ./js/ciklas/for-in.js",
+    "for-of": "node --watch ./js/ciklas/for-of.js",
     "import": "node --watch ./js/function/import.js",
         "for": "node --watch ./js/ciklas/for.js",
     "function": "node --watch ./js/function/function.js",
