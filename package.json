@@ -5,6 +5,9 @@
   "scripts": {
     "for-in": "node --watch ./js/ciklas/for-in.js",
     "for-of": "node --watch ./js/ciklas/for-of.js",
+    "while": "node --watch ./js/ciklas/while.js",
+    "arrow": "node --watch ./js/function/arrow.js",
+    "typeof": "node --watch ./js/if/typeof.js",
     "import": "node --watch ./js/function/import.js",
         "for": "node --watch ./js/ciklas/for.js",
     "function": "node --watch ./js/function/function.js",
