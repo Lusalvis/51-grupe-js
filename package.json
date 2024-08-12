@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "method:array": "node --watch ./js/method/array.js",
+      "method:string": "node --watch ./js/method/string.js",
+      "method:number": "node --watch ./js/method/number.js",
+    "uzd:suma": "node --watch ./uzd/suma-intervale.js",
+    "uzd:string": "node --watch ./uzd/string-reverse.js",
     "for-in": "node --watch ./js/ciklas/for-in.js",
     "for-of": "node --watch ./js/ciklas/for-of.js",
     "while": "node --watch ./js/ciklas/while.js",
